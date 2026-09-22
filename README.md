@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gabriel Gallo 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend</b> · Java · Spring Boot · Go · APIs REST
+  <b>Desenvolvedor Backend</b> · Java · Spring Boot · APIs REST
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 Sou desenvolvedor com foco em **backend**, onde gosto de trabalhar no que sustenta o produto: modelagem de dados, regras de negócio, APIs bem definidas e código que continua fácil de manter seis meses depois.
 
-- 🔧 Trabalho principalmente com **Java + Spring Boot** e **Go**
+- 🔧 Trabalho principalmente com **Java + Spring Boot**
 - 🗄️ Modelagem e versionamento de banco com **PostgreSQL** e migrations
 - 🧱 Aplico **Clean Architecture**, SOLID e separação por camadas (handler → service → repository)
 - 📱 Também construo o front quando o projeto pede — **React Native / Expo**
@@ -67,38 +67,3 @@ Sou desenvolvedor com foco em **backend**, onde gosto de trabalhar no que susten
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **[Barber Shop API](https://github.com/SEU-USUARIO/barber-shop-api)** | API de agendamento para barbearias: gestão de profissionais, serviços, horários e clientes. Migrations versionadas e handlers separados por domínio. | `Go` `PostgreSQL` `REST` |
-| **[ADPG Barber App](https://github.com/SEU-USUARIO/adpgbarber-app)** | Aplicativo mobile do sistema de barbearia, com fluxo de cliente e área do profissional. | `React Native` `Expo` `TypeScript` |
-| **[Seu projeto Java](https://github.com/SEU-USUARIO/projeto)** | Descreva aqui o problema que a API resolve e a decisão técnica da qual você mais se orgulha. | `Java` `Spring Boot` `PostgreSQL` |
-
-> 💡 Dica: mantenha de 3 a 6 projetos aqui, sempre com um README próprio explicando **o problema**, **como rodar** e **as decisões de arquitetura**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Vamos conversar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:devpenaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<p align="center"><i>"Código bom não é o que funciona hoje, é o que ainda faz sentido amanhã."</i></p>
