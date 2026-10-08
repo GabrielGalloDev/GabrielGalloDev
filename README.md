@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:8957E5&height=220&section=header&text=Gabriel%20Gallo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=220&section=header&text=Gabriel%20Gallo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Gabriel Gallo 👋</h1>
@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=Backend+Developer;Java+%7C+Spring+Boot;SQL+%7C+PL%2FpgSQL+%7C+Docker;Arquitetura+de+Software;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C9D1D9&center=true&vCenter=true&width=520&lines=Backend+Developer;Java+%7C+Spring+Boot;SQL+%7C+PL%2FpgSQL+%7C+Docker;Arquitetura+de+Software;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielgallov01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:gabrielgallov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=GabrielGalloDev&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=GabrielGalloDev&style=for-the-badge&color=30363D&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
@@ -50,5 +50,5 @@ Sou desenvolvedor com foco em **backend**, onde gosto de trabalhar no que susten
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:2F81F7,100:0D1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
 </p>
