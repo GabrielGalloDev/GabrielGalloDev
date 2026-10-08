@@ -2,10 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=220&section=header&text=Gabriel%20Gallo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Olá, eu sou o Gabriel Gallo 👋</h1>
-
 <p align="center">
-  <b>Desenvolvedor Backend</b> · Java · Spring Boot · APIs REST
+  Olá! 👋 · Java · Spring Boot · APIs REST
 </p>
 
 <p align="center">
